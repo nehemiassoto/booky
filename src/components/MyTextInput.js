@@ -1,7 +1,7 @@
 import React from 'react'
-import {StyleSheet, TouchableOpacity, Image} from 'react-native'
-import {Icon, Input } from 'react-native-elements'
-import color from '@styles/colors'
+import {StyleSheet, TouchableOpacity, Image} from 'react'
+import {Icon, Input } from 'react'
+import color from '../styles/colors'
 
 export default function MyTextInput(props){
 
